@@ -1,5 +1,5 @@
 from fastapi import Depends, HTTPException, status
-from fastapi.security import HTTPBearer, HTTPAuthCredentials
+from fastapi.security import HTTPBearer
 from sqlalchemy.orm import Session
 from app.utils.security import decode_token
 from app.models.user import User
@@ -9,7 +9,7 @@ from typing import Optional
 security = HTTPBearer()
 
 async def get_current_user(
-    credentials: HTTPAuthCredentials = Depends(security),
+    credentials = Depends(security),
     db: Session = Depends(get_db)
 ) -> User:
     token = credentials.credentials
@@ -47,7 +47,7 @@ async def get_current_user(
     return user
 
 async def get_current_user_optional(
-    credentials: Optional[HTTPAuthCredentials] = Depends(security),
+    credentials: Optional = Depends(security),
     db: Session = Depends(get_db)
 ) -> Optional[User]:
     if credentials is None:

@@ -1,0 +1,601 @@
+complaint_id,complaint_text,category,department,priority
+1,Please help. the faculty member has not uploaded the study material for the course. Please check this issue.,Academic,Academic,High
+2,Please help. my library card is not working. Please let me know the next steps.,Library,Library,Medium
+3,This is affecting my studies. The student support office has not updated my application status.,Student Welfare,Student Welfare,Low
+4,I want to report that the attendance percentage on the portal is incorrect. Please check this issue.,Attendance,Academic,Low
+5,I need assistance because i cannot reset my university account password.,Technical/IT,IT Support,Medium
+6,I need assistance because the road near the academic block has damaged pavement. Please let me know the next steps.,Infrastructure/Maintenance,Maintenance,High
+7,I am facing an issue where i am unable to pay my semester fees because the portal keeps timing out. Please let me know the next steps.,Fee/Payment,Accounts,Medium
+8,I would like to report that the bus did not stop at the scheduled pickup point.,Transport,Transport,Low
+9,Please help. attendance for my lab sessions has not been updated. Please let me know the next steps.,Attendance,Academic,Medium
+10,I need assistance because i need clarification about the examination registration deadline. I would appreciate an update.,Examination,Examination Cell,High
+11,I want to report that please correct my attendance for the practical session. Please check this issue.,Attendance,Academic,Low
+12,I would like to report that the classroom allocation for my subject is incorrect. Kindly resolve this as soon as possible.,Academic,Academic,Medium
+13,I am facing an issue where my internal assessment marks have not been updated. Kindly resolve this as soon as possible.,Academic,Academic,Medium
+14,The deadline is approaching. The library website is not working.,Library,Library,Medium
+15,I am facing an issue where my scholarship renewal request is not visible on the portal. Please check this issue.,Scholarship/Financial Aid,Student Welfare,Medium
+16,Could you please resolve this: the water supply in our hostel floor is interrupted. Kindly resolve this as soon as possible.,Hostel,Hostel,Medium
+17,Please help. my semester fee was deducted but the student portal still shows pending. Please check this issue.,Fee/Payment,Accounts,High
+18,Please help. there is no hot water in the hostel bathroom. I would appreciate an update.,Hostel,Hostel,Low
+19,I want to report that the college mobile app crashes whenever I open the attendance section. I would appreciate an update.,Technical/IT,IT Support,Medium
+20,I am facing an issue where my attendance was not updated for the lecture I attended.,Attendance,Academic,Medium
+21,I want to report that i paid my tuition fee yesterday but the receipt has not been generated. I would appreciate an update.,Fee/Payment,Accounts,High
+22,The issue has continued since yesterday. The approved scholarship amount has not been credited.,Scholarship/Financial Aid,Student Welfare,High
+23,I would like to report that the student support office has not updated my application status. Kindly resolve this as soon as possible.,Student Welfare,Student Welfare,Low
+24,Several students in my class are facing the same issue. The welfare office has not responded to my submitted request.,Student Welfare,Student Welfare,Medium
+25,I would like to report that the scholarship amount credited to my account is incorrect. I would appreciate an update.,Scholarship/Financial Aid,Student Welfare,Medium
+26,I need assistance because the welfare office has not responded to my submitted request. Please check this issue.,Student Welfare,Student Welfare,Medium
+27,Could you please resolve this: my attendance for yesterday's class is marked absent even though I attended. Kindly resolve this as soon as possible.,Attendance,Academic,Medium
+28,I need assistance because my internal assessment marks have not been updated. Please let me know the next steps.,Academic,Academic,Medium
+29,Several students in my class are facing the same issue. The course information on the portal is outdated.,Academic,Academic,Low
+30,I need assistance because i cannot reserve a book from the online library system. Please check this issue.,Library,Library,Medium
+31,I have already tried contacting the concerned office. My attendance is below the required percentage because several classes are missing.,Attendance,Academic,Medium
+32,I am facing an issue where i cannot reset my university account password. Please check this issue.,Technical/IT,IT Support,Medium
+33,Could you please resolve this: my attendance was not updated for the lecture I attended. Kindly resolve this as soon as possible.,Attendance,Academic,Medium
+34,I need assistance because the washroom on the second floor needs urgent maintenance. Please let me know the next steps.,Infrastructure/Maintenance,Maintenance,High
+35,Please help. the projector is not connecting to the classroom computer. Please let me know the next steps.,Technical/IT,IT Support,High
+36,Please help. the college shuttle was overcrowded today.,Transport,Transport,High
+37,I would like to report that my timetable has two classes scheduled at the same time. Kindly resolve this as soon as possible.,Academic,Academic,Medium
+38,I am facing an issue where the student support office has not updated my application status. Please let me know the next steps.,Student Welfare,Student Welfare,Low
+39,I am facing an issue where the library website is not working. I would appreciate an update.,Library,Library,Low
+40,I need assistance because the campus elevator is not working. Kindly resolve this as soon as possible.,Infrastructure/Maintenance,Maintenance,Low
+41,I would like to report that my scholarship application is still showing under review. Kindly resolve this as soon as possible.,Scholarship/Financial Aid,Student Welfare,Medium
+42,I want to report that the fee payment page is showing an error after I completed the transaction. I would appreciate an update.,Fee/Payment,Accounts,High
+43,I want to report that i need help getting a certificate from the student affairs office. Please check this issue.,Student Welfare,Student Welfare,Low
+44,I have already tried contacting the concerned office. The projector is not connecting to the classroom computer.,Technical/IT,IT Support,Medium
+45,I want to report that my examination fee was charged twice and I need one payment refunded. Kindly resolve this as soon as possible.,Fee/Payment,Accounts,High
+46,Could you please resolve this: the student portal keeps logging me out. I would appreciate an update.,Technical/IT,IT Support,High
+47,Please help. the college shuttle was overcrowded today. Please check this issue.,Transport,Transport,Medium
+48,I would like to report that i need academic advising because I am confused about my elective selection. Please check this issue.,Academic,Academic,Medium
+49,I need assistance because i attended the class but the biometric attendance did not record me. Please check this issue.,Attendance,Academic,Medium
+50,I would like to report that the driver skipped the scheduled campus pickup point. I would appreciate an update.,Transport,Transport,Medium
+51,I need assistance because there is no hot water in the hostel bathroom. Please let me know the next steps.,Hostel,Hostel,Medium
+52,Could you please resolve this: the hostel room light has stopped working. I would appreciate an update.,Hostel,Hostel,Medium
+53,I am facing an issue where i have a problem with my course registration and cannot select one required subject. Kindly resolve this as soon as possible.,Academic,Academic,Medium
+54,Several students in my class are facing the same issue. I need permission to change my elective before the deadline.,Academic,Academic,Low
+55,This is affecting my studies. The projector is not connecting to the classroom computer.,Technical/IT,IT Support,High
+56,Could you please resolve this: i submitted all scholarship documents but received a missing document notification. I would appreciate an update.,Scholarship/Financial Aid,Student Welfare,High
+57,Please help. there is no hot water in the hostel bathroom. Please let me know the next steps.,Hostel,Hostel,Medium
+58,I am facing an issue where i cannot reset my university account password.,Technical/IT,IT Support,Medium
+59,Could you please resolve this: i need academic advising because I am confused about my elective selection.,Academic,Academic,Medium
+60,Please help. the online assignment page is not loading.,Technical/IT,IT Support,Medium
+61,Could you please resolve this: the attendance percentage on the portal is incorrect. Please check this issue.,Attendance,Academic,Medium
+62,Could you please resolve this: the college mobile app crashes whenever I open the attendance section. Please check this issue.,Technical/IT,IT Support,High
+63,I would like to report that i need clarification about the examination registration deadline. Please let me know the next steps.,Examination,Examination Cell,High
+64,I would like to report that i want to request accessibility support for a campus event. Please check this issue.,Student Welfare,Student Welfare,Medium
+65,I want to report that i need information about available student clubs and activities. Please let me know the next steps.,Student Welfare,Student Welfare,Medium
+66,I would like to report that my approved attendance exemption has not been reflected. Please check this issue.,Attendance,Academic,High
+67,Several students in my class are facing the same issue. The fan in my hostel room is not working.,Hostel,Hostel,Low
+68,I have already tried contacting the concerned office. The scholarship portal is not accepting my documents.,Scholarship/Financial Aid,Student Welfare,Medium
+69,I would like to report that my attendance is below the required percentage because several classes are missing. Kindly resolve this as soon as possible.,Attendance,Academic,Medium
+70,I would like to report that my exam timetable has two papers scheduled at the same time. Please let me know the next steps.,Examination,Examination Cell,Critical
+71,I need assistance because my practical exam marks are missing from the result. Kindly resolve this as soon as possible.,Examination,Examination Cell,High
+72,I need assistance because my examination fee was charged twice and I need one payment refunded. Please let me know the next steps.,Fee/Payment,Accounts,Medium
+73,Please help. i cannot reserve a book from the online library system. I would appreciate an update.,Library,Library,Low
+74,I need assistance because i cannot upload the income certificate for my scholarship. I would appreciate an update.,Scholarship/Financial Aid,Student Welfare,Medium
+75,I want to report that my library card is not working. Please check this issue.,Library,Library,Low
+76,I need assistance because the welfare office has not responded to my submitted request. I would appreciate an update.,Student Welfare,Student Welfare,Low
+77,I am facing an issue where i was unable to submit my examination form because of a portal error. Please let me know the next steps.,Examination,Examination Cell,Critical
+78,Could you please resolve this: i want to report a problem with hostel room allocation. I would appreciate an update.,Hostel,Hostel,Medium
+79,I have already tried contacting the concerned office. My scholarship application is still showing under review.,Scholarship/Financial Aid,Student Welfare,Medium
+80,I am facing an issue where i need access to an online journal that the university subscribes to. Please check this issue.,Library,Library,Medium
+81,Could you please resolve this: there is a damaged electrical socket in the laboratory. Kindly resolve this as soon as possible.,Infrastructure/Maintenance,Maintenance,Low
+82,I would like to report that i was charged a fine even though I returned the book on time. Please check this issue.,Library,Library,Medium
+83,I have already tried contacting the concerned office. I cannot log in to the student portal even with the correct password.,Technical/IT,IT Support,High
+84,I am facing an issue where the approved scholarship amount has not been credited. Please let me know the next steps.,Scholarship/Financial Aid,Student Welfare,High
+85,I want to report that my attendance for yesterday's class is marked absent even though I attended. I would appreciate an update.,Attendance,Academic,Low
+86,I would like to report that i am unable to pay my semester fees because the portal keeps timing out. Please let me know the next steps.,Fee/Payment,Accounts,Medium
+87,I want to report that i cannot reset my university account password. Please let me know the next steps.,Technical/IT,IT Support,Low
+88,I want to report that the hostel WiFi is very weak in my room. I would appreciate an update.,Hostel,Hostel,Medium
+89,Could you please resolve this: my financial aid status has not been updated. Kindly resolve this as soon as possible.,Scholarship/Financial Aid,Student Welfare,Low
+90,I need assistance because the hostel room light has stopped working. I would appreciate an update.,Hostel,Hostel,Medium
+91,Please help. the hostel WiFi is very weak in my room.,Hostel,Hostel,High
+92,I want to report that i want to request accessibility support for a campus event. Kindly resolve this as soon as possible.,Student Welfare,Student Welfare,Medium
+93,I need assistance because my attendance for yesterday's class is marked absent even though I attended. Kindly resolve this as soon as possible.,Attendance,Academic,Medium
+94,I am facing an issue where my result has not been published even though other students can see theirs. Please check this issue.,Examination,Examination Cell,High
+95,Please help. there is water leakage near the staircase. Kindly resolve this as soon as possible.,Infrastructure/Maintenance,Maintenance,Low
+96,I am facing an issue where the ceiling fan in our classroom is making a loud noise.,Infrastructure/Maintenance,Maintenance,Medium
+97,I am facing an issue where my hostel room has a leaking tap. Please check this issue.,Hostel,Hostel,Medium
+98,Could you please resolve this: my semester fee was deducted but the student portal still shows pending. I would appreciate an update.,Fee/Payment,Accounts,Medium
+99,Could you please resolve this: i was charged a fine even though I returned the book on time. I would appreciate an update.,Library,Library,Medium
+100,Please help. my attendance is below the required percentage because several classes are missing.,Attendance,Academic,Medium
+101,I would like to report that the attendance percentage on the portal is incorrect. Kindly resolve this as soon as possible.,Attendance,Academic,Medium
+102,Could you please resolve this: the hostel WiFi is very weak in my room. Please check this issue.,Hostel,Hostel,Low
+103,Please help. i need help getting a certificate from the student affairs office.,Student Welfare,Student Welfare,Medium
+104,Please help. i was unable to submit my examination form because of a portal error.,Examination,Examination Cell,High
+105,Could you please resolve this: the attendance portal is showing another student's attendance against my name. Please let me know the next steps.,Attendance,Academic,Low
+106,I would like to report that i cannot reserve a book from the online library system. Kindly resolve this as soon as possible.,Library,Library,Medium
+107,I need assistance because my timetable has two classes scheduled at the same time. Please check this issue.,Academic,Academic,High
+108,I am facing an issue where the drinking water dispenser is not working. I would appreciate an update.,Infrastructure/Maintenance,Maintenance,High
+109,Could you please resolve this: the classroom air conditioner is not cooling. Please check this issue.,Infrastructure/Maintenance,Maintenance,Low
+110,I am facing an issue where my library card is not working. Kindly resolve this as soon as possible.,Library,Library,Medium
+111,I am facing an issue where the student portal keeps logging me out. I would appreciate an update.,Technical/IT,IT Support,Medium
+112,Could you please resolve this: the college shuttle was overcrowded today.,Transport,Transport,Medium
+113,I have already tried contacting the concerned office. The hostel room allotted to me has not been cleaned.,Hostel,Hostel,Medium
+114,The issue has continued since yesterday. I need information about changing my bus route.,Transport,Transport,Medium
+115,Please help. i cannot upload the income certificate for my scholarship.,Scholarship/Financial Aid,Student Welfare,High
+116,I want to report that i cannot upload the income certificate for my scholarship. I would appreciate an update.,Scholarship/Financial Aid,Student Welfare,Low
+117,I need assistance because my revaluation request is not showing on the portal. I would appreciate an update.,Examination,Examination Cell,High
+118,I would like to report that my timetable has two classes scheduled at the same time. Please check this issue.,Academic,Academic,Medium
+119,Please help. my assigned bus route is not visible in the transport portal. Please check this issue.,Transport,Transport,Low
+120,I am facing an issue where the library printer is not working. Please let me know the next steps.,Library,Library,Low
+121,I need assistance because i need help understanding the prerequisite for a course. Please check this issue.,Academic,Academic,Low
+122,Please help. i paid my tuition fee yesterday but the receipt has not been generated. I would appreciate an update.,Fee/Payment,Accounts,High
+123,I want to report that the scholarship portal is not accepting my documents.,Scholarship/Financial Aid,Student Welfare,Medium
+124,I want to report that the student support office has not updated my application status. I would appreciate an update.,Student Welfare,Student Welfare,Low
+125,Could you please resolve this: the college mobile app crashes whenever I open the attendance section. I would appreciate an update.,Technical/IT,IT Support,Medium
+126,I want to report that my registered subject is missing from the student portal. Please let me know the next steps.,Academic,Academic,Low
+127,I have already tried contacting the concerned office. The scholarship amount credited to my account is incorrect.,Scholarship/Financial Aid,Student Welfare,Low
+128,Could you please resolve this: several desks in our classroom are broken. Please check this issue.,Infrastructure/Maintenance,Maintenance,Medium
+129,The deadline is approaching. I paid my tuition fee yesterday but the receipt has not been generated.,Fee/Payment,Accounts,Medium
+130,Please help. i was charged a fine even though I returned the book on time. Kindly resolve this as soon as possible.,Library,Library,Low
+131,I want to report that attendance for my lab sessions has not been updated.,Attendance,Academic,Medium
+132,This is affecting my studies. My examination result is showing the wrong marks.,Examination,Examination Cell,High
+133,Could you please resolve this: the computer lab systems are unable to connect to the internet. Please let me know the next steps.,Technical/IT,IT Support,High
+134,I want to report that the college WiFi is not working in my classroom. I would appreciate an update.,Technical/IT,IT Support,Medium
+135,Please help. the bus tracking application is showing the wrong location. Kindly resolve this as soon as possible.,Transport,Transport,High
+136,I need assistance because my university email account is not receiving messages. Please check this issue.,Technical/IT,IT Support,Medium
+137,I would like to report that the attendance percentage on the portal is incorrect.,Attendance,Academic,Low
+138,I am facing an issue where i attended the class but the biometric attendance did not record me. Please let me know the next steps.,Attendance,Academic,Medium
+139,I am facing an issue where there is a damaged electrical socket in the laboratory. Please check this issue.,Infrastructure/Maintenance,Maintenance,High
+140,Please help. the attendance portal is showing another student's attendance against my name. I would appreciate an update.,Attendance,Academic,High
+141,I am facing an issue where my examination fee was charged twice and I need one payment refunded.,Fee/Payment,Accounts,High
+142,I am facing an issue where the hostel common area is not being cleaned regularly.,Hostel,Hostel,High
+143,Could you please resolve this: the student portal keeps logging me out. I would appreciate an update.,Technical/IT,IT Support,High
+144,Could you please resolve this: the teacher marked me absent by mistake. Kindly resolve this as soon as possible.,Attendance,Academic,Low
+145,I am facing an issue where the driver skipped the scheduled campus pickup point. I would appreciate an update.,Transport,Transport,High
+146,I want to report that the classroom allocation for my subject is incorrect.,Academic,Academic,High
+147,I would like to report that i need help correcting details in my scholarship application. I would appreciate an update.,Scholarship/Financial Aid,Student Welfare,Low
+148,I am facing an issue where my library card is not working.,Library,Library,Low
+149,I want to report that the scholarship amount was approved but the fee balance has not been updated.,Fee/Payment,Accounts,High
+150,Please help. i paid my tuition fee yesterday but the receipt has not been generated. Kindly resolve this as soon as possible.,Fee/Payment,Accounts,High
+151,I have already tried contacting the concerned office. I need help correcting details in my scholarship application.,Scholarship/Financial Aid,Student Welfare,High
+152,Please help. the welfare office has not responded to my submitted request. Kindly resolve this as soon as possible.,Student Welfare,Student Welfare,Medium
+153,Please help. i need information about the deadline for the scholarship application. Kindly resolve this as soon as possible.,Scholarship/Financial Aid,Student Welfare,High
+154,Please help. my examination result is showing the wrong marks. Kindly resolve this as soon as possible.,Examination,Examination Cell,Critical
+155,I need assistance because i need information about available student clubs and activities. Please let me know the next steps.,Student Welfare,Student Welfare,Medium
+156,I am facing an issue where there is no hot water in the hostel bathroom. Kindly resolve this as soon as possible.,Hostel,Hostel,Medium
+157,Please help. i am unable to pay my semester fees because the portal keeps timing out. Please check this issue.,Fee/Payment,Accounts,High
+158,Please help. i cannot reserve a book from the online library system. Kindly resolve this as soon as possible.,Library,Library,Low
+159,Could you please resolve this: i need permission to change my elective before the deadline. Kindly resolve this as soon as possible.,Academic,Academic,High
+160,Please help. the teacher marked me absent by mistake. Please let me know the next steps.,Attendance,Academic,High
+161,I am facing an issue where i submitted all scholarship documents but received a missing document notification.,Scholarship/Financial Aid,Student Welfare,High
+162,Please help. my hostel room has a leaking tap. Kindly resolve this as soon as possible.,Hostel,Hostel,Low
+163,Could you please resolve this: my examination fee was charged twice and I need one payment refunded. Kindly resolve this as soon as possible.,Fee/Payment,Accounts,High
+164,I want to report that the library printer is not working. Please let me know the next steps.,Library,Library,Low
+165,Please help. my practical exam marks are missing from the result. Kindly resolve this as soon as possible.,Examination,Examination Cell,Critical
+166,I am facing an issue where my internal assessment marks have not been updated. Please check this issue.,Academic,Academic,Low
+167,I need assistance because the classroom lights are not working properly. Kindly resolve this as soon as possible.,Infrastructure/Maintenance,Maintenance,High
+168,Could you please resolve this: the classroom air conditioner is not cooling.,Infrastructure/Maintenance,Maintenance,Medium
+169,I need assistance because i need information about available student clubs and activities. Please let me know the next steps.,Student Welfare,Student Welfare,Medium
+170,I am facing an issue where the approved scholarship amount has not been credited. Please let me know the next steps.,Scholarship/Financial Aid,Student Welfare,Medium
+171,I need assistance because several desks in our classroom are broken. I would appreciate an update.,Infrastructure/Maintenance,Maintenance,Medium
+172,Could you please resolve this: several desks in our classroom are broken.,Infrastructure/Maintenance,Maintenance,Low
+173,I would like to report that i need help getting a certificate from the student affairs office. Kindly resolve this as soon as possible.,Student Welfare,Student Welfare,Low
+174,I am facing an issue where the library reading room has insufficient seating during examination week. Kindly resolve this as soon as possible.,Library,Library,Medium
+175,I would like to report that the student portal keeps logging me out.,Technical/IT,IT Support,High
+176,I would like to report that the teacher marked me absent by mistake. Kindly resolve this as soon as possible.,Attendance,Academic,Medium
+177,Could you please resolve this: the transport pass has not been activated. Kindly resolve this as soon as possible.,Transport,Transport,High
+178,I need assistance because my hostel fee payment is not reflected in my account. Please check this issue.,Fee/Payment,Accounts,Medium
+179,I would like to report that my attendance is below the required percentage because several classes are missing. Kindly resolve this as soon as possible.,Attendance,Academic,Low
+180,I want to report that the drinking water dispenser is not working. Please let me know the next steps.,Infrastructure/Maintenance,Maintenance,Low
+181,I need assistance because i have a problem with my course registration and cannot select one required subject. Please check this issue.,Academic,Academic,Medium
+182,Could you please resolve this: the classroom air conditioner is not cooling. Please check this issue.,Infrastructure/Maintenance,Maintenance,Medium
+183,The issue has continued since yesterday. My financial aid status has not been updated.,Scholarship/Financial Aid,Student Welfare,High
+184,I need assistance because my assigned bus route is not visible in the transport portal. Please let me know the next steps.,Transport,Transport,High
+185,I am facing an issue where the library printer is not working. I would appreciate an update.,Library,Library,Low
+186,I want to report that the scholarship portal is not accepting my documents. Please let me know the next steps.,Scholarship/Financial Aid,Student Welfare,Medium
+187,I am facing an issue where i need help correcting details in my scholarship application. Kindly resolve this as soon as possible.,Scholarship/Financial Aid,Student Welfare,Medium
+188,Please help. my transport fee has been paid but the bus pass is still inactive. I would appreciate an update.,Transport,Transport,Low
+189,I want to report that the approved scholarship amount has not been credited. Please let me know the next steps.,Scholarship/Financial Aid,Student Welfare,High
+190,I am facing an issue where there is a damaged electrical socket in the laboratory. Please check this issue.,Infrastructure/Maintenance,Maintenance,High
+191,I am facing an issue where my transport fee has been paid but the bus pass is still inactive. Kindly resolve this as soon as possible.,Transport,Transport,Medium
+192,I would like to report that i need information about available student clubs and activities. Kindly resolve this as soon as possible.,Student Welfare,Student Welfare,Low
+193,I am facing an issue where my approved attendance exemption has not been reflected. I would appreciate an update.,Attendance,Academic,Low
+194,Could you please resolve this: the hostel room light has stopped working. Kindly resolve this as soon as possible.,Hostel,Hostel,Low
+195,I want to report that my library card is not working.,Library,Library,Low
+196,I need assistance because the classroom lights are not working properly.,Infrastructure/Maintenance,Maintenance,Medium
+197,I need assistance because my transport fee has been paid but the bus pass is still inactive. Please let me know the next steps.,Transport,Transport,Low
+198,I am facing an issue where the approved scholarship amount has not been credited. I would appreciate an update.,Scholarship/Financial Aid,Student Welfare,Medium
+199,Please help. i need guidance about the process for changing my student records. Please check this issue.,Student Welfare,Student Welfare,Low
+200,Could you please resolve this: the course information on the portal is outdated. Please check this issue.,Academic,Academic,Medium
+201,I would like to report that i need academic advising because I am confused about my elective selection. I would appreciate an update.,Academic,Academic,High
+202,Could you please resolve this: i cannot reserve a book from the online library system. Please let me know the next steps.,Library,Library,Low
+203,I am facing an issue where my assigned bus route is not visible in the transport portal. Please check this issue.,Transport,Transport,Medium
+204,Could you please resolve this: i cannot reset my university account password. Please let me know the next steps.,Technical/IT,IT Support,Medium
+205,Please help. the water supply in our hostel floor is interrupted. Please let me know the next steps.,Hostel,Hostel,High
+206,I am facing an issue where there is a damaged electrical socket in the laboratory. Please check this issue.,Infrastructure/Maintenance,Maintenance,Low
+207,I want to report that the hostel room allotted to me has not been cleaned. Kindly resolve this as soon as possible.,Hostel,Hostel,Medium
+208,Could you please resolve this: several desks in our classroom are broken. I would appreciate an update.,Infrastructure/Maintenance,Maintenance,Medium
+209,I am facing an issue where the hostel room allotted to me has not been cleaned. Please let me know the next steps.,Hostel,Hostel,High
+210,I am facing an issue where the library printer is not working.,Library,Library,Medium
+211,Several students in my class are facing the same issue. The college mobile app crashes whenever I open the attendance section.,Technical/IT,IT Support,Medium
+212,This is affecting my studies. I cannot renew a library book through the student portal.,Library,Library,Low
+213,I have already tried contacting the concerned office. The campus elevator is not working.,Infrastructure/Maintenance,Maintenance,High
+214,I would like to report that my registered subject is missing from the student portal. Please let me know the next steps.,Academic,Academic,Low
+215,Could you please resolve this: the hostel WiFi is very weak in my room. Please let me know the next steps.,Hostel,Hostel,Medium
+216,I want to report that i need help understanding the prerequisite for a course. Please let me know the next steps.,Academic,Academic,Low
+217,Please help. my result has not been published even though other students can see theirs. Please let me know the next steps.,Examination,Examination Cell,High
+218,I would like to report that my semester fee was deducted but the student portal still shows pending. I would appreciate an update.,Fee/Payment,Accounts,Medium
+219,Please help. i need guidance about the process for changing my student records.,Student Welfare,Student Welfare,Medium
+220,Could you please resolve this: my hostel fee payment is not reflected in my account. Please check this issue.,Fee/Payment,Accounts,Medium
+221,I want to report that the LMS is showing a server error when I open my course. Please let me know the next steps.,Technical/IT,IT Support,High
+222,Could you please resolve this: my transport fee has been paid but the bus pass is still inactive. Please let me know the next steps.,Transport,Transport,Medium
+223,I need assistance because attendance for my lab sessions has not been updated. Please check this issue.,Attendance,Academic,Medium
+224,I am facing an issue where my practical exam marks are missing from the result. I would appreciate an update.,Examination,Examination Cell,Critical
+225,I am facing an issue where my revaluation request is not showing on the portal. Please let me know the next steps.,Examination,Examination Cell,Medium
+226,I am facing an issue where the college bus arrived late this morning. Please check this issue.,Transport,Transport,High
+227,Could you please resolve this: my exam timetable has two papers scheduled at the same time. Kindly resolve this as soon as possible.,Examination,Examination Cell,Medium
+228,Could you please resolve this: the exam portal is not allowing me to download my hall ticket. Kindly resolve this as soon as possible.,Examination,Examination Cell,High
+229,I would like to report that i paid my tuition fee yesterday but the receipt has not been generated. Please check this issue.,Fee/Payment,Accounts,High
+230,I want to report that my result has not been published even though other students can see theirs. Kindly resolve this as soon as possible.,Examination,Examination Cell,High
+231,I need assistance because the payment was successful in my bank account but is missing from the college portal. I would appreciate an update.,Fee/Payment,Accounts,High
+232,I need assistance because the library website is not working.,Library,Library,Medium
+233,I would like to report that there is no hot water in the hostel bathroom. Please check this issue.,Hostel,Hostel,Medium
+234,I am facing an issue where the evening bus service is not available at the published time. I would appreciate an update.,Transport,Transport,Medium
+235,I am facing an issue where i need guidance about the process for changing my student records.,Student Welfare,Student Welfare,Medium
+236,Please help. my examination fee was charged twice and I need one payment refunded. Please check this issue.,Fee/Payment,Accounts,Medium
+237,Please help. my library card is not working. Kindly resolve this as soon as possible.,Library,Library,Low
+238,Could you please resolve this: several desks in our classroom are broken. Kindly resolve this as soon as possible.,Infrastructure/Maintenance,Maintenance,High
+239,I want to report that the library printer is not working. Please check this issue.,Library,Library,Low
+240,Could you please resolve this: the washroom on the second floor needs urgent maintenance. Kindly resolve this as soon as possible.,Infrastructure/Maintenance,Maintenance,High
+241,The issue has continued since yesterday. My scholarship application is still showing under review.,Scholarship/Financial Aid,Student Welfare,Low
+242,Please help. the approved scholarship amount has not been credited. I would appreciate an update.,Scholarship/Financial Aid,Student Welfare,Medium
+243,I want to report that the library system shows that I have not returned a book that I already returned. Please check this issue.,Library,Library,Low
+244,I am facing an issue where the college WiFi is not working in my classroom. Kindly resolve this as soon as possible.,Technical/IT,IT Support,Medium
+245,I want to report that the course information on the portal is outdated.,Academic,Academic,Low
+246,Could you please resolve this: i need clarification about the examination registration deadline. Kindly resolve this as soon as possible.,Examination,Examination Cell,Medium
+247,I want to report that i need guidance about the process for changing my student records. Please check this issue.,Student Welfare,Student Welfare,Medium
+248,I need assistance because i was charged a fine even though I returned the book on time.,Library,Library,Low
+249,I am facing an issue where the college WiFi is not working in my classroom. Please let me know the next steps.,Technical/IT,IT Support,Medium
+250,I want to report that my fee receipt contains the wrong amount.,Fee/Payment,Accounts,High
+251,I am facing an issue where i need help understanding the prerequisite for a course.,Academic,Academic,Medium
+252,I need assistance because i am unable to pay my semester fees because the portal keeps timing out. Kindly resolve this as soon as possible.,Fee/Payment,Accounts,High
+253,I am facing an issue where the LMS is showing a server error when I open my course.,Technical/IT,IT Support,Low
+254,Several students in my class are facing the same issue. The transport pass has not been activated.,Transport,Transport,Medium
+255,I need assistance because my attendance was not updated for the lecture I attended. I would appreciate an update.,Attendance,Academic,Medium
+256,I would like to report that the attendance portal is showing another student's attendance against my name.,Attendance,Academic,Medium
+257,I need assistance because my revaluation request is not showing on the portal. Please check this issue.,Examination,Examination Cell,High
+258,Please help. i want to report a problem with hostel room allocation. Please check this issue.,Hostel,Hostel,Medium
+259,I would like to report that i am unable to pay my semester fees because the portal keeps timing out. Kindly resolve this as soon as possible.,Fee/Payment,Accounts,Medium
+260,I am facing an issue where the ceiling fan in our classroom is making a loud noise. I would appreciate an update.,Infrastructure/Maintenance,Maintenance,Medium
+261,Could you please resolve this: there is a damaged electrical socket in the laboratory. Kindly resolve this as soon as possible.,Infrastructure/Maintenance,Maintenance,High
+262,I need assistance because my exam timetable has two papers scheduled at the same time.,Examination,Examination Cell,Critical
+263,Several students in my class are facing the same issue. Several desks in our classroom are broken.,Infrastructure/Maintenance,Maintenance,Low
+264,I would like to report that the online assignment page is not loading. Kindly resolve this as soon as possible.,Technical/IT,IT Support,Medium
+265,I want to report that the exam portal is not allowing me to download my hall ticket. Please check this issue.,Examination,Examination Cell,High
+266,I need assistance because i need assistance with a student welfare application. I would appreciate an update.,Student Welfare,Student Welfare,Medium
+267,I need assistance because the campus elevator is not working.,Infrastructure/Maintenance,Maintenance,High
+268,I am facing an issue where my approved attendance exemption has not been reflected.,Attendance,Academic,Medium
+269,Could you please resolve this: the projector is not connecting to the classroom computer. Kindly resolve this as soon as possible.,Technical/IT,IT Support,High
+270,I would like to report that my practical exam marks are missing from the result.,Examination,Examination Cell,High
+271,I want to report that i cannot register for the upcoming examination. Please check this issue.,Examination,Examination Cell,Critical
+272,I need assistance because i cannot register for the upcoming examination.,Examination,Examination Cell,Medium
+273,Could you please resolve this: my examination fee was charged twice and I need one payment refunded. Please let me know the next steps.,Fee/Payment,Accounts,High
+274,I would like to report that i need clarification about an unexpected late fee added to my account. Kindly resolve this as soon as possible.,Fee/Payment,Accounts,Medium
+275,Could you please resolve this: i need help correcting details in my scholarship application. I would appreciate an update.,Scholarship/Financial Aid,Student Welfare,Medium
+276,I have already tried contacting the concerned office. The online assignment page is not loading.,Technical/IT,IT Support,Medium
+277,Could you please resolve this: the bus did not stop at the scheduled pickup point. I would appreciate an update.,Transport,Transport,Low
+278,I need assistance because i paid my tuition fee yesterday but the receipt has not been generated. Kindly resolve this as soon as possible.,Fee/Payment,Accounts,High
+279,I need assistance because i am unable to pay my semester fees because the portal keeps timing out. Please let me know the next steps.,Fee/Payment,Accounts,High
+280,The issue has continued since yesterday. I need clarification about the examination registration deadline.,Examination,Examination Cell,High
+281,I want to report that the bus did not stop at the scheduled pickup point. I would appreciate an update.,Transport,Transport,Medium
+282,Please help. my semester fee was deducted but the student portal still shows pending. Please check this issue.,Fee/Payment,Accounts,High
+283,Could you please resolve this: my transport fee has been paid but the bus pass is still inactive. Please check this issue.,Transport,Transport,Medium
+284,I would like to report that the library reading room has insufficient seating during examination week. Kindly resolve this as soon as possible.,Library,Library,Low
+285,I want to report that i need information about the deadline for the scholarship application. Please let me know the next steps.,Scholarship/Financial Aid,Student Welfare,Low
+286,I am facing an issue where the library reading room has insufficient seating during examination week. I would appreciate an update.,Library,Library,Medium
+287,I would like to report that i cannot register for the upcoming examination. Please let me know the next steps.,Examination,Examination Cell,High
+288,Could you please resolve this: the hostel WiFi is very weak in my room. I would appreciate an update.,Hostel,Hostel,Medium
+289,I would like to report that the scholarship amount was approved but the fee balance has not been updated. Please check this issue.,Fee/Payment,Accounts,Medium
+290,Please help. my library card is not working. Kindly resolve this as soon as possible.,Library,Library,Low
+291,I want to report that there is a damaged electrical socket in the laboratory. I would appreciate an update.,Infrastructure/Maintenance,Maintenance,Medium
+292,Please help. my attendance is below the required percentage because several classes are missing. Please let me know the next steps.,Attendance,Academic,Low
+293,I would like to report that the fan in my hostel room is not working. Kindly resolve this as soon as possible.,Hostel,Hostel,Medium
+294,I want to report that the fee payment page is showing an error after I completed the transaction.,Fee/Payment,Accounts,Medium
+295,I need assistance because i cannot reset my university account password.,Technical/IT,IT Support,Medium
+296,Please help. the hostel common area is not being cleaned regularly. Please check this issue.,Hostel,Hostel,Low
+297,I have already tried contacting the concerned office. My university email account is not receiving messages.,Technical/IT,IT Support,Low
+298,Could you please resolve this: i cannot reset my university account password. Please check this issue.,Technical/IT,IT Support,High
+299,I would like to report that i need information about available student clubs and activities. Please check this issue.,Student Welfare,Student Welfare,Low
+300,I want to report that my financial aid status has not been updated. Kindly resolve this as soon as possible.,Scholarship/Financial Aid,Student Welfare,Medium
+301,I would like to report that the projector is not connecting to the classroom computer. I would appreciate an update.,Technical/IT,IT Support,Medium
+302,I would like to report that the welfare office has not responded to my submitted request.,Student Welfare,Student Welfare,Medium
+303,Several students in my class are facing the same issue. Attendance for my lab sessions has not been updated.,Attendance,Academic,Medium
+304,I would like to report that i want to request accessibility support for a campus event. Please let me know the next steps.,Student Welfare,Student Welfare,Low
+305,I need assistance because please correct my attendance for the practical session.,Attendance,Academic,Medium
+306,I need assistance because my exam timetable has two papers scheduled at the same time. Please let me know the next steps.,Examination,Examination Cell,High
+307,I would like to report that the college WiFi is not working in my classroom. Please check this issue.,Technical/IT,IT Support,High
+308,Could you please resolve this: i need help correcting details in my scholarship application.,Scholarship/Financial Aid,Student Welfare,High
+309,I would like to report that the online assignment page is not loading.,Technical/IT,IT Support,Medium
+310,I would like to report that i cannot log in to the student portal even with the correct password. I would appreciate an update.,Technical/IT,IT Support,Medium
+311,I need assistance because my university email account is not receiving messages. I would appreciate an update.,Technical/IT,IT Support,Low
+312,I want to report that the welfare office has not responded to my submitted request. Kindly resolve this as soon as possible.,Student Welfare,Student Welfare,Low
+313,I want to report that i was unable to submit my examination form because of a portal error. I would appreciate an update.,Examination,Examination Cell,High
+314,Please help. the college bus arrived late this morning. I would appreciate an update.,Transport,Transport,Medium
+315,I am facing an issue where my result has not been published even though other students can see theirs.,Examination,Examination Cell,Critical
+316,I want to report that i need permission to change my elective before the deadline. I would appreciate an update.,Academic,Academic,Low
+317,Please help. i need information about the deadline for the scholarship application. Please check this issue.,Scholarship/Financial Aid,Student Welfare,Medium
+318,I would like to report that the teacher marked me absent by mistake.,Attendance,Academic,Low
+319,I need assistance because i cannot reserve a book from the online library system. Kindly resolve this as soon as possible.,Library,Library,Medium
+320,I have already tried contacting the concerned office. The campus elevator is not working.,Infrastructure/Maintenance,Maintenance,Medium
+321,Please help. the course information on the portal is outdated. Please let me know the next steps.,Academic,Academic,Low
+322,I would like to report that the approved scholarship amount has not been credited. Kindly resolve this as soon as possible.,Scholarship/Financial Aid,Student Welfare,High
+323,I need assistance because the library reading room has insufficient seating during examination week. Please let me know the next steps.,Library,Library,Medium
+324,I am facing an issue where my assigned bus route is not visible in the transport portal. Kindly resolve this as soon as possible.,Transport,Transport,Medium
+325,Please help. the hostel WiFi is very weak in my room.,Hostel,Hostel,Medium
+326,Please help. my practical exam marks are missing from the result. Please check this issue.,Examination,Examination Cell,High
+327,Please help. the approved scholarship amount has not been credited.,Scholarship/Financial Aid,Student Welfare,High
+328,Could you please resolve this: my revaluation request is not showing on the portal. I would appreciate an update.,Examination,Examination Cell,High
+329,I need assistance because the library printer is not working.,Library,Library,Low
+330,I would like to report that the scholarship amount was approved but the fee balance has not been updated. Please check this issue.,Fee/Payment,Accounts,Medium
+331,I want to report that my scholarship renewal request is not visible on the portal. Kindly resolve this as soon as possible.,Scholarship/Financial Aid,Student Welfare,High
+332,Could you please resolve this: my semester fee was deducted but the student portal still shows pending. Kindly resolve this as soon as possible.,Fee/Payment,Accounts,Medium
+333,Please help. my internal assessment marks have not been updated. Please let me know the next steps.,Academic,Academic,Medium
+334,I need assistance because the campus elevator is not working.,Infrastructure/Maintenance,Maintenance,High
+335,I want to report that i was unable to submit my examination form because of a portal error. Kindly resolve this as soon as possible.,Examination,Examination Cell,Critical
+336,I want to report that i need information about available student clubs and activities.,Student Welfare,Student Welfare,Medium
+337,Could you please resolve this: my approved attendance exemption has not been reflected.,Attendance,Academic,Medium
+338,I am facing an issue where i need permission to change my elective before the deadline.,Academic,Academic,Low
+339,Please help. the scholarship amount credited to my account is incorrect. Please let me know the next steps.,Scholarship/Financial Aid,Student Welfare,Medium
+340,Please help. the scholarship amount credited to my account is incorrect. Please let me know the next steps.,Scholarship/Financial Aid,Student Welfare,Low
+341,Could you please resolve this: the road near the academic block has damaged pavement. I would appreciate an update.,Infrastructure/Maintenance,Maintenance,High
+342,I need assistance because i need information about available student clubs and activities. Please check this issue.,Student Welfare,Student Welfare,Medium
+343,I would like to report that the drinking water dispenser is not working. Please check this issue.,Infrastructure/Maintenance,Maintenance,High
+344,I need assistance because i cannot log in to the student portal even with the correct password. I would appreciate an update.,Technical/IT,IT Support,Medium
+345,I need assistance because the road near the academic block has damaged pavement. Please check this issue.,Infrastructure/Maintenance,Maintenance,Low
+346,Please help. the welfare office has not responded to my submitted request. Please let me know the next steps.,Student Welfare,Student Welfare,Medium
+347,I would like to report that my student ID card replacement request is still pending. Kindly resolve this as soon as possible.,Student Welfare,Student Welfare,Low
+348,I want to report that i need clarification about an unexpected late fee added to my account. Please check this issue.,Fee/Payment,Accounts,High
+349,I would like to report that the library reading room has insufficient seating during examination week. I would appreciate an update.,Library,Library,Low
+350,Please help. i need clarification about the examination registration deadline. I would appreciate an update.,Examination,Examination Cell,High
+351,I am facing an issue where the projector is not connecting to the classroom computer. I would appreciate an update.,Technical/IT,IT Support,Low
+352,I am facing an issue where the scholarship amount credited to my account is incorrect.,Scholarship/Financial Aid,Student Welfare,Medium
+353,Please help. my internal assessment marks have not been updated. Kindly resolve this as soon as possible.,Academic,Academic,Medium
+354,I am facing an issue where the college bus arrived late this morning. Please check this issue.,Transport,Transport,Medium
+355,Please help. i need help getting a certificate from the student affairs office. Kindly resolve this as soon as possible.,Student Welfare,Student Welfare,Medium
+356,I am facing an issue where my registered subject is missing from the student portal. Kindly resolve this as soon as possible.,Academic,Academic,Low
+357,I am facing an issue where my library card is not working. I would appreciate an update.,Library,Library,Medium
+358,I need assistance because the exam portal is not allowing me to download my hall ticket. Please check this issue.,Examination,Examination Cell,High
+359,Could you please resolve this: i cannot register for the upcoming examination. Please let me know the next steps.,Examination,Examination Cell,High
+360,Please help. i need information about student counseling services. Please let me know the next steps.,Student Welfare,Student Welfare,Medium
+361,I need assistance because i need permission to change my elective before the deadline. Kindly resolve this as soon as possible.,Academic,Academic,Low
+362,Could you please resolve this: i need assistance with a student welfare application. Please check this issue.,Student Welfare,Student Welfare,Low
+363,I would like to report that my attendance is below the required percentage because several classes are missing. Kindly resolve this as soon as possible.,Attendance,Academic,Medium
+364,I need assistance because i need help understanding the prerequisite for a course. Please check this issue.,Academic,Academic,High
+365,I want to report that my hostel room has a leaking tap. I would appreciate an update.,Hostel,Hostel,Low
+366,I would like to report that the library website is not working. Kindly resolve this as soon as possible.,Library,Library,Medium
+367,I want to report that my approved attendance exemption has not been reflected. I would appreciate an update.,Attendance,Academic,Low
+368,Please help. i cannot register for the upcoming examination. I would appreciate an update.,Examination,Examination Cell,High
+369,I would like to report that there is a damaged electrical socket in the laboratory. Kindly resolve this as soon as possible.,Infrastructure/Maintenance,Maintenance,Medium
+370,I am facing an issue where the road near the academic block has damaged pavement. Please let me know the next steps.,Infrastructure/Maintenance,Maintenance,Medium
+371,Could you please resolve this: the evening bus service is not available at the published time. I would appreciate an update.,Transport,Transport,Medium
+372,I want to report that my registered subject is missing from the student portal. Kindly resolve this as soon as possible.,Academic,Academic,High
+373,I would like to report that i cannot reset my university account password. Please let me know the next steps.,Technical/IT,IT Support,Medium
+374,I would like to report that my hostel room has a leaking tap. Please check this issue.,Hostel,Hostel,Low
+375,Please help. i need clarification about the examination registration deadline. I would appreciate an update.,Examination,Examination Cell,High
+376,I need assistance because i want to report a problem with hostel room allocation. I would appreciate an update.,Hostel,Hostel,Medium
+377,I would like to report that i need assistance with a student welfare application. I would appreciate an update.,Student Welfare,Student Welfare,Low
+378,Could you please resolve this: i need information about changing my bus route. Please check this issue.,Transport,Transport,Medium
+379,I am facing an issue where my transport fee has been paid but the bus pass is still inactive.,Transport,Transport,Low
+380,Could you please resolve this: the bus did not stop at the scheduled pickup point. I would appreciate an update.,Transport,Transport,Medium
+381,I am facing an issue where i need assistance with a student welfare application. Kindly resolve this as soon as possible.,Student Welfare,Student Welfare,Low
+382,I am facing an issue where my scholarship application is still showing under review. Please check this issue.,Scholarship/Financial Aid,Student Welfare,Low
+383,I want to report that i need academic advising because I am confused about my elective selection. Please let me know the next steps.,Academic,Academic,Low
+384,The deadline is approaching. My financial aid status has not been updated.,Scholarship/Financial Aid,Student Welfare,High
+385,I need assistance because the water supply in our hostel floor is interrupted. Please let me know the next steps.,Hostel,Hostel,Low
+386,I am facing an issue where my exam timetable has two papers scheduled at the same time. Please let me know the next steps.,Examination,Examination Cell,Critical
+387,Please help. the attendance percentage on the portal is incorrect. Kindly resolve this as soon as possible.,Attendance,Academic,Medium
+388,I want to report that the hostel common area is not being cleaned regularly.,Hostel,Hostel,Medium
+389,I need assistance because my internal assessment marks have not been updated. Please check this issue.,Academic,Academic,Low
+390,I would like to report that my student ID card replacement request is still pending. Kindly resolve this as soon as possible.,Student Welfare,Student Welfare,Low
+391,I would like to report that i submitted all scholarship documents but received a missing document notification.,Scholarship/Financial Aid,Student Welfare,Low
+392,I would like to report that my library card is not working. Please check this issue.,Library,Library,Low
+393,I want to report that i need information about student counseling services. Please let me know the next steps.,Student Welfare,Student Welfare,Medium
+394,I am facing an issue where i submitted all scholarship documents but received a missing document notification. Please check this issue.,Scholarship/Financial Aid,Student Welfare,High
+395,This is affecting my studies. Please correct my attendance for the practical session.,Attendance,Academic,Medium
+396,I am facing an issue where the book I need is listed as available but cannot be found on the shelf. Please let me know the next steps.,Library,Library,Low
+397,I need assistance because i cannot upload the income certificate for my scholarship. Please let me know the next steps.,Scholarship/Financial Aid,Student Welfare,Medium
+398,This is affecting my studies. The scholarship amount was approved but the fee balance has not been updated.,Fee/Payment,Accounts,Medium
+399,Please help. several desks in our classroom are broken. I would appreciate an update.,Infrastructure/Maintenance,Maintenance,Medium
+400,Could you please resolve this: i want to request accessibility support for a campus event. Kindly resolve this as soon as possible.,Student Welfare,Student Welfare,Medium
+401,I want to report that the evening bus service is not available at the published time. I would appreciate an update.,Transport,Transport,High
+402,I am facing an issue where i need access to an online journal that the university subscribes to. Please let me know the next steps.,Library,Library,Low
+403,Could you please resolve this: i need permission to change my elective before the deadline. Please let me know the next steps.,Academic,Academic,High
+404,Could you please resolve this: i cannot reset my university account password. Kindly resolve this as soon as possible.,Technical/IT,IT Support,High
+405,Could you please resolve this: the library reading room has insufficient seating during examination week.,Library,Library,Low
+406,I am facing an issue where the college bus arrived late this morning. Please let me know the next steps.,Transport,Transport,Medium
+407,I want to report that the library printer is not working.,Library,Library,Low
+408,I need assistance because my financial aid status has not been updated. I would appreciate an update.,Scholarship/Financial Aid,Student Welfare,Medium
+409,Please help. the exam portal is not allowing me to download my hall ticket. Please check this issue.,Examination,Examination Cell,High
+410,I need assistance because the projector is not connecting to the classroom computer. I would appreciate an update.,Technical/IT,IT Support,High
+411,I have already tried contacting the concerned office. The projector is not connecting to the classroom computer.,Technical/IT,IT Support,Low
+412,Please help. the hostel room light has stopped working. Please let me know the next steps.,Hostel,Hostel,Medium
+413,Could you please resolve this: i cannot register for the upcoming examination. I would appreciate an update.,Examination,Examination Cell,Medium
+414,Please help. i need assistance with a student welfare application. I would appreciate an update.,Student Welfare,Student Welfare,Low
+415,I am facing an issue where the student portal keeps logging me out. I would appreciate an update.,Technical/IT,IT Support,Medium
+416,I need assistance because the exam portal is not allowing me to download my hall ticket. Kindly resolve this as soon as possible.,Examination,Examination Cell,Medium
+417,I need assistance because the course information on the portal is outdated. I would appreciate an update.,Academic,Academic,Medium
+418,I need assistance because i cannot renew a library book through the student portal.,Library,Library,Low
+419,I am facing an issue where the college mobile app crashes whenever I open the attendance section. I would appreciate an update.,Technical/IT,IT Support,Low
+420,Several students in my class are facing the same issue. I cannot reset my university account password.,Technical/IT,IT Support,Low
+421,I would like to report that the classroom air conditioner is not cooling. Please let me know the next steps.,Infrastructure/Maintenance,Maintenance,High
+422,I want to report that the hostel WiFi is very weak in my room. Please let me know the next steps.,Hostel,Hostel,Low
+423,Please help. i have a problem with my course registration and cannot select one required subject. Please let me know the next steps.,Academic,Academic,High
+424,I am facing an issue where the faculty member has not uploaded the study material for the course. I would appreciate an update.,Academic,Academic,Medium
+425,Please help. the bus did not stop at the scheduled pickup point. Please check this issue.,Transport,Transport,Medium
+426,Please help. i need information about the deadline for the scholarship application. Kindly resolve this as soon as possible.,Scholarship/Financial Aid,Student Welfare,Low
+427,I need assistance because the approved scholarship amount has not been credited.,Scholarship/Financial Aid,Student Welfare,Medium
+428,Please help. the hostel WiFi is very weak in my room. Please check this issue.,Hostel,Hostel,Medium
+429,The issue has continued since yesterday. The classroom air conditioner is not cooling.,Infrastructure/Maintenance,Maintenance,Low
+430,Please help. my transport fee has been paid but the bus pass is still inactive. Please let me know the next steps.,Transport,Transport,Medium
+431,Could you please resolve this: my exam timetable has two papers scheduled at the same time. Please let me know the next steps.,Examination,Examination Cell,Critical
+432,I would like to report that my registered subject is missing from the student portal. I would appreciate an update.,Academic,Academic,Low
+433,This is affecting my studies. The fan in my hostel room is not working.,Hostel,Hostel,Medium
+434,I want to report that there is a damaged electrical socket in the laboratory. Please check this issue.,Infrastructure/Maintenance,Maintenance,High
+435,The deadline is approaching. I need permission to change my elective before the deadline.,Academic,Academic,Low
+436,Please help. i paid my tuition fee yesterday but the receipt has not been generated. I would appreciate an update.,Fee/Payment,Accounts,High
+437,Could you please resolve this: i need academic advising because I am confused about my elective selection.,Academic,Academic,High
+438,The deadline is approaching. The library reading room has insufficient seating during examination week.,Library,Library,Medium
+439,I need assistance because i cannot renew a library book through the student portal. Please let me know the next steps.,Library,Library,Low
+440,I would like to report that the faculty member has not uploaded the study material for the course.,Academic,Academic,Medium
+441,I need assistance because my transport fee has been paid but the bus pass is still inactive. Please let me know the next steps.,Transport,Transport,Medium
+442,I would like to report that i need clarification about an unexpected late fee added to my account. Please check this issue.,Fee/Payment,Accounts,High
+443,I would like to report that the college mobile app crashes whenever I open the attendance section. Please check this issue.,Technical/IT,IT Support,High
+444,Please help. the teacher marked me absent by mistake.,Attendance,Academic,Medium
+445,I would like to report that there is water leakage near the staircase. Please check this issue.,Infrastructure/Maintenance,Maintenance,Medium
+446,I would like to report that the teacher marked me absent by mistake. Please let me know the next steps.,Attendance,Academic,High
+447,I need assistance because my hostel key card is not working. I would appreciate an update.,Hostel,Hostel,Medium
+448,I would like to report that the student portal keeps logging me out.,Technical/IT,IT Support,Medium
+449,I am facing an issue where my admit card is not available on the examination portal. Please check this issue.,Examination,Examination Cell,Critical
+450,I would like to report that the online assignment page is not loading. Please let me know the next steps.,Technical/IT,IT Support,Low
+451,I need assistance because i paid my tuition fee yesterday but the receipt has not been generated.,Fee/Payment,Accounts,Medium
+452,I need assistance because the scholarship amount was approved but the fee balance has not been updated. Please check this issue.,Fee/Payment,Accounts,High
+453,I need assistance because my hostel fee payment is not reflected in my account. Kindly resolve this as soon as possible.,Fee/Payment,Accounts,High
+454,Could you please resolve this: the online assignment page is not loading.,Technical/IT,IT Support,Low
+455,I want to report that my internal assessment marks have not been updated. Please let me know the next steps.,Academic,Academic,High
+456,I want to report that the hostel common area is not being cleaned regularly.,Hostel,Hostel,Medium
+457,Could you please resolve this: the college bus arrived late this morning. I would appreciate an update.,Transport,Transport,Medium
+458,I am facing an issue where the college shuttle was overcrowded today. I would appreciate an update.,Transport,Transport,High
+459,I would like to report that there is no hot water in the hostel bathroom. Please check this issue.,Hostel,Hostel,High
+460,I am facing an issue where my student ID card replacement request is still pending.,Student Welfare,Student Welfare,Medium
+461,I am facing an issue where the attendance portal is showing another student's attendance against my name.,Attendance,Academic,Medium
+462,I want to report that please correct my attendance for the practical session. Please check this issue.,Attendance,Academic,Medium
+463,I need assistance because there is no hot water in the hostel bathroom. Kindly resolve this as soon as possible.,Hostel,Hostel,Low
+464,Please help. i want to report that the student help desk has not responded to my request. Kindly resolve this as soon as possible.,Student Welfare,Student Welfare,Medium
+465,I am facing an issue where my financial aid status has not been updated. Please check this issue.,Scholarship/Financial Aid,Student Welfare,Medium
+466,I am facing an issue where i want to report that the student help desk has not responded to my request. Please check this issue.,Student Welfare,Student Welfare,Low
+467,Please help. the college mobile app crashes whenever I open the attendance section. Kindly resolve this as soon as possible.,Technical/IT,IT Support,Low
+468,I want to report that my assigned bus route is not visible in the transport portal. Kindly resolve this as soon as possible.,Transport,Transport,Medium
+469,I need assistance because i need information about available student clubs and activities.,Student Welfare,Student Welfare,Medium
+470,Please help. my semester fee was deducted but the student portal still shows pending. Kindly resolve this as soon as possible.,Fee/Payment,Accounts,Medium
+471,Several students in my class are facing the same issue. I need help correcting details in my scholarship application.,Scholarship/Financial Aid,Student Welfare,Low
+472,Could you please resolve this: i need information about student counseling services. Please let me know the next steps.,Student Welfare,Student Welfare,Low
+473,Please help. the hostel WiFi is very weak in my room. Please let me know the next steps.,Hostel,Hostel,High
+474,I am facing an issue where i need information about the deadline for the scholarship application. Kindly resolve this as soon as possible.,Scholarship/Financial Aid,Student Welfare,High
+475,I want to report that the washroom on the second floor needs urgent maintenance. I would appreciate an update.,Infrastructure/Maintenance,Maintenance,High
+476,I want to report that the approved scholarship amount has not been credited. Please let me know the next steps.,Scholarship/Financial Aid,Student Welfare,High
+477,I want to report that i need help correcting details in my scholarship application. Please check this issue.,Scholarship/Financial Aid,Student Welfare,High
+478,I need assistance because the classroom lights are not working properly.,Infrastructure/Maintenance,Maintenance,High
+479,I need assistance because i want to report a problem with hostel room allocation. I would appreciate an update.,Hostel,Hostel,Low
+480,I want to report that i need clarification about an unexpected late fee added to my account.,Fee/Payment,Accounts,Medium
+481,I need assistance because several desks in our classroom are broken. I would appreciate an update.,Infrastructure/Maintenance,Maintenance,Low
+482,The deadline is approaching. My hostel fee payment is not reflected in my account.,Fee/Payment,Accounts,High
+483,I would like to report that the student support office has not updated my application status.,Student Welfare,Student Welfare,Medium
+484,I would like to report that i need access to an online journal that the university subscribes to. Please check this issue.,Library,Library,Medium
+485,I would like to report that i need help understanding the prerequisite for a course. I would appreciate an update.,Academic,Academic,Medium
+486,I am facing an issue where the hostel room allotted to me has not been cleaned. Please let me know the next steps.,Hostel,Hostel,High
+487,I need assistance because the book I need is listed as available but cannot be found on the shelf. Please check this issue.,Library,Library,Medium
+488,I want to report that my student ID card replacement request is still pending. I would appreciate an update.,Student Welfare,Student Welfare,Low
+489,I have already tried contacting the concerned office. I need access to an online journal that the university subscribes to.,Library,Library,Medium
+490,I want to report that there is no hot water in the hostel bathroom.,Hostel,Hostel,High
+491,Could you please resolve this: i need help correcting details in my scholarship application. I would appreciate an update.,Scholarship/Financial Aid,Student Welfare,High
+492,I need assistance because my university email account is not receiving messages. Kindly resolve this as soon as possible.,Technical/IT,IT Support,Medium
+493,Please help. my attendance for yesterday's class is marked absent even though I attended.,Attendance,Academic,Medium
+494,Please help. there is a damaged electrical socket in the laboratory. Please check this issue.,Infrastructure/Maintenance,Maintenance,Low
+495,Please help. the hostel room allotted to me has not been cleaned. Please let me know the next steps.,Hostel,Hostel,Low
+496,I would like to report that please correct my attendance for the practical session. Please check this issue.,Attendance,Academic,Low
+497,I want to report that the library reading room has insufficient seating during examination week. Please let me know the next steps.,Library,Library,Medium
+498,Could you please resolve this: my examination fee was charged twice and I need one payment refunded. Kindly resolve this as soon as possible.,Fee/Payment,Accounts,High
+499,I want to report that my fee receipt contains the wrong amount. I would appreciate an update.,Fee/Payment,Accounts,Medium
+500,Could you please resolve this: i cannot reserve a book from the online library system. I would appreciate an update.,Library,Library,Low
+501,I am facing an issue where the ceiling fan in our classroom is making a loud noise. I would appreciate an update.,Infrastructure/Maintenance,Maintenance,Low
+502,I would like to report that my result has not been published even though other students can see theirs.,Examination,Examination Cell,Medium
+503,I am facing an issue where the hostel WiFi is very weak in my room. Please check this issue.,Hostel,Hostel,Medium
+504,I need assistance because the faculty member has not uploaded the study material for the course. Please let me know the next steps.,Academic,Academic,Medium
+505,I am facing an issue where i need clarification about an unexpected late fee added to my account. Please let me know the next steps.,Fee/Payment,Accounts,High
+506,I need assistance because i need information about student counseling services. Please let me know the next steps.,Student Welfare,Student Welfare,Low
+507,I want to report that i want to request accessibility support for a campus event. Please let me know the next steps.,Student Welfare,Student Welfare,Low
+508,I am facing an issue where the hostel common area is not being cleaned regularly. I would appreciate an update.,Hostel,Hostel,Medium
+509,I need assistance because the transport pass has not been activated. Please let me know the next steps.,Transport,Transport,Medium
+510,I want to report that the drinking water dispenser is not working. Kindly resolve this as soon as possible.,Infrastructure/Maintenance,Maintenance,Medium
+511,I need assistance because the scholarship portal is not accepting my documents. Please let me know the next steps.,Scholarship/Financial Aid,Student Welfare,High
+512,Could you please resolve this: several desks in our classroom are broken. Please let me know the next steps.,Infrastructure/Maintenance,Maintenance,High
+513,Could you please resolve this: the book I need is listed as available but cannot be found on the shelf. Please let me know the next steps.,Library,Library,Medium
+514,I need assistance because i cannot upload the income certificate for my scholarship. Please let me know the next steps.,Scholarship/Financial Aid,Student Welfare,High
+515,I would like to report that my assigned bus route is not visible in the transport portal.,Transport,Transport,Low
+516,I would like to report that the course information on the portal is outdated. Please check this issue.,Academic,Academic,Low
+517,I would like to report that my approved attendance exemption has not been reflected. I would appreciate an update.,Attendance,Academic,Medium
+518,Please help. i need information about changing my bus route. Kindly resolve this as soon as possible.,Transport,Transport,Medium
+519,Could you please resolve this: the classroom allocation for my subject is incorrect. Kindly resolve this as soon as possible.,Academic,Academic,High
+520,This is affecting my studies. My hostel room has a leaking tap.,Hostel,Hostel,Medium
+521,Could you please resolve this: i need guidance about the process for changing my student records. Please let me know the next steps.,Student Welfare,Student Welfare,Low
+522,I want to report that my approved attendance exemption has not been reflected.,Attendance,Academic,Medium
+523,I would like to report that my hostel fee payment is not reflected in my account.,Fee/Payment,Accounts,High
+524,I need assistance because my university email account is not receiving messages. Please check this issue.,Technical/IT,IT Support,Medium
+525,I want to report that my semester fee was deducted but the student portal still shows pending. Kindly resolve this as soon as possible.,Fee/Payment,Accounts,High
+526,I want to report that the bus did not stop at the scheduled pickup point. Kindly resolve this as soon as possible.,Transport,Transport,Low
+527,I would like to report that my scholarship application is still showing under review. Kindly resolve this as soon as possible.,Scholarship/Financial Aid,Student Welfare,High
+528,I would like to report that the online assignment page is not loading. I would appreciate an update.,Technical/IT,IT Support,Low
+529,I want to report that the hostel common area is not being cleaned regularly. Please let me know the next steps.,Hostel,Hostel,High
+530,Could you please resolve this: the attendance percentage on the portal is incorrect.,Attendance,Academic,Medium
+531,I need assistance because my exam timetable has two papers scheduled at the same time. Please let me know the next steps.,Examination,Examination Cell,Critical
+532,I want to report that the ceiling fan in our classroom is making a loud noise.,Infrastructure/Maintenance,Maintenance,High
+533,Could you please resolve this: the ceiling fan in our classroom is making a loud noise. Please let me know the next steps.,Infrastructure/Maintenance,Maintenance,High
+534,I want to report that my transport fee has been paid but the bus pass is still inactive. Please let me know the next steps.,Transport,Transport,Medium
+535,Please help. my assigned bus route is not visible in the transport portal. I would appreciate an update.,Transport,Transport,Medium
+536,The deadline is approaching. I need help understanding the prerequisite for a course.,Academic,Academic,Low
+537,I would like to report that the ceiling fan in our classroom is making a loud noise. Please let me know the next steps.,Infrastructure/Maintenance,Maintenance,High
+538,I am facing an issue where the hostel room allotted to me has not been cleaned.,Hostel,Hostel,Medium
+539,Please help. the college WiFi is not working in my classroom. I would appreciate an update.,Technical/IT,IT Support,High
+540,Please help. the library printer is not working. I would appreciate an update.,Library,Library,Medium
+541,I need assistance because the evening bus service is not available at the published time. Kindly resolve this as soon as possible.,Transport,Transport,High
+542,Please help. the course information on the portal is outdated. Please check this issue.,Academic,Academic,Low
+543,Could you please resolve this: my scholarship renewal request is not visible on the portal. Kindly resolve this as soon as possible.,Scholarship/Financial Aid,Student Welfare,High
+544,I would like to report that my examination fee was charged twice and I need one payment refunded.,Fee/Payment,Accounts,Medium
+545,Several students in my class are facing the same issue. The library printer is not working.,Library,Library,Low
+546,I am facing an issue where the teacher marked me absent by mistake. Kindly resolve this as soon as possible.,Attendance,Academic,Medium
+547,I would like to report that the hostel WiFi is very weak in my room. Kindly resolve this as soon as possible.,Hostel,Hostel,High
+548,I am facing an issue where i need clarification about an unexpected late fee added to my account. Kindly resolve this as soon as possible.,Fee/Payment,Accounts,High
+549,I want to report that i need help getting a certificate from the student affairs office. I would appreciate an update.,Student Welfare,Student Welfare,Medium
+550,I am facing an issue where the library system shows that I have not returned a book that I already returned.,Library,Library,Low
+551,Could you please resolve this: the bus tracking application is showing the wrong location. Please let me know the next steps.,Transport,Transport,Low
+552,I want to report that i need help correcting details in my scholarship application. I would appreciate an update.,Scholarship/Financial Aid,Student Welfare,High
+553,Could you please resolve this: the attendance percentage on the portal is incorrect. Please let me know the next steps.,Attendance,Academic,Medium
+554,Could you please resolve this: my revaluation request is not showing on the portal.,Examination,Examination Cell,High
+555,I want to report that my result has not been published even though other students can see theirs. Kindly resolve this as soon as possible.,Examination,Examination Cell,High
+556,I am facing an issue where my hostel key card is not working.,Hostel,Hostel,High
+557,Could you please resolve this: the scholarship amount was approved but the fee balance has not been updated. Please let me know the next steps.,Fee/Payment,Accounts,Medium
+558,I am facing an issue where my admit card is not available on the examination portal. I would appreciate an update.,Examination,Examination Cell,High
+559,I am facing an issue where i need information about the deadline for the scholarship application.,Scholarship/Financial Aid,Student Welfare,Medium
+560,I am facing an issue where there is a damaged electrical socket in the laboratory. Kindly resolve this as soon as possible.,Infrastructure/Maintenance,Maintenance,High
+561,Could you please resolve this: the college WiFi is not working in my classroom. Please let me know the next steps.,Technical/IT,IT Support,High
+562,Several students in my class are facing the same issue. The scholarship amount was approved but the fee balance has not been updated.,Fee/Payment,Accounts,Medium
+563,I want to report that the transport pass has not been activated. I would appreciate an update.,Transport,Transport,Medium
+564,The issue has continued since yesterday. The welfare office has not responded to my submitted request.,Student Welfare,Student Welfare,Medium
+565,I would like to report that i need assistance with a student welfare application. I would appreciate an update.,Student Welfare,Student Welfare,Medium
+566,I want to report that the water supply in our hostel floor is interrupted.,Hostel,Hostel,Low
+567,Several students in my class are facing the same issue. The hostel common area is not being cleaned regularly.,Hostel,Hostel,High
+568,I need assistance because the college WiFi is not working in my classroom. Kindly resolve this as soon as possible.,Technical/IT,IT Support,High
+569,I am facing an issue where my assigned bus route is not visible in the transport portal. I would appreciate an update.,Transport,Transport,Low
+570,I need assistance because i want to report that the student help desk has not responded to my request. I would appreciate an update.,Student Welfare,Student Welfare,Low
+571,I am facing an issue where the attendance portal is showing another student's attendance against my name. I would appreciate an update.,Attendance,Academic,Medium
+572,Please help. the transport pass has not been activated. Kindly resolve this as soon as possible.,Transport,Transport,Medium
+573,The deadline is approaching. I want to report that the student help desk has not responded to my request.,Student Welfare,Student Welfare,Low
+574,I am facing an issue where there is water leakage near the staircase. Please let me know the next steps.,Infrastructure/Maintenance,Maintenance,Medium
+575,Could you please resolve this: the scholarship amount was approved but the fee balance has not been updated. Please let me know the next steps.,Fee/Payment,Accounts,High
+576,Could you please resolve this: my exam timetable has two papers scheduled at the same time. I would appreciate an update.,Examination,Examination Cell,High
+577,I want to report that i need information about changing my bus route. I would appreciate an update.,Transport,Transport,High
+578,I need assistance because the college WiFi is not working in my classroom. Please let me know the next steps.,Technical/IT,IT Support,Low
+579,Please help. the campus elevator is not working. Please let me know the next steps.,Infrastructure/Maintenance,Maintenance,Medium
+580,I am facing an issue where the student portal keeps logging me out. Please let me know the next steps.,Technical/IT,IT Support,Medium
+581,I need assistance because my scholarship application is still showing under review.,Scholarship/Financial Aid,Student Welfare,Medium
+582,I want to report that i cannot reserve a book from the online library system. Please let me know the next steps.,Library,Library,Medium
+583,I need assistance because the transport pass has not been activated.,Transport,Transport,Medium
+584,I would like to report that my exam timetable has two papers scheduled at the same time. Kindly resolve this as soon as possible.,Examination,Examination Cell,Medium
+585,I want to report that my practical exam marks are missing from the result.,Examination,Examination Cell,High
+586,Could you please resolve this: my internal assessment marks have not been updated. Please check this issue.,Academic,Academic,Medium
+587,Please help. the teacher marked me absent by mistake. Kindly resolve this as soon as possible.,Attendance,Academic,Low
+588,I want to report that i need help correcting details in my scholarship application.,Scholarship/Financial Aid,Student Welfare,High
+589,I am facing an issue where my attendance is below the required percentage because several classes are missing. Please check this issue.,Attendance,Academic,Medium
+590,Please help. the bus tracking application is showing the wrong location. Please let me know the next steps.,Transport,Transport,Medium
+591,I would like to report that my practical exam marks are missing from the result. Please check this issue.,Examination,Examination Cell,Medium
+592,I want to report that my hostel room has a leaking tap. Kindly resolve this as soon as possible.,Hostel,Hostel,Medium
+593,Could you please resolve this: the driver skipped the scheduled campus pickup point. Kindly resolve this as soon as possible.,Transport,Transport,High
+594,I want to report that i need permission to change my elective before the deadline. Kindly resolve this as soon as possible.,Academic,Academic,Medium
+595,I would like to report that my examination fee was charged twice and I need one payment refunded. I would appreciate an update.,Fee/Payment,Accounts,High
+596,Please help. please correct my attendance for the practical session. Please let me know the next steps.,Attendance,Academic,Low
+597,Could you please resolve this: the course information on the portal is outdated. Please check this issue.,Academic,Academic,Low
+598,Please help. the drinking water dispenser is not working. I would appreciate an update.,Infrastructure/Maintenance,Maintenance,Medium
+599,I am facing an issue where i was charged a fine even though I returned the book on time. Please let me know the next steps.,Library,Library,Medium
+600,I would like to report that i need permission to change my elective before the deadline. Please check this issue.,Academic,Academic,Medium

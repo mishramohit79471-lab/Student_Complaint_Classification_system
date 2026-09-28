@@ -2,7 +2,14 @@
   "permissions": {
     "allow": [
       "Bash(git add *)",
-      "Bash(git commit -m ' *)"
+      "Bash(git commit -m ' *)",
+      "PowerShell(.\\\\venv\\\\Scripts\\\\Activate.ps1)",
+      "PowerShell(pip install pydantic-settings python-jose cryptography -q)",
+      "PowerShell(python -c \"from app.database import engine, Base; Base.metadata.create_all\\(bind=engine\\); print\\('� SQLite database initialized with all tables'\\)\")",
+      "PowerShell(python -m uvicorn app.main:app --reload --host 0.0.0.0 --port 8000)",
+      "PowerShell(curl http://localhost:8000/openapi.json)",
+      "PowerShell(Stop-Process -Name \"python\" -Force 2>$null)",
+      "PowerShell(pip install --upgrade bcrypt passlib -q)"
     ]
   }
 }

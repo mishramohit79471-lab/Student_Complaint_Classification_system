@@ -3,11 +3,12 @@ from sqlalchemy.orm import Session
 from typing import List
 from app.database import get_db
 from app.models.user import User, UserRole
-from app.models.complaint import Complaint, ComplaintComment, ComplaintStatus, PriorityLevel
+from app.models.complaint import Complaint, ComplaintComment, ComplaintStatus, PriorityLevel, ComplaintCategory
 from app.schemas.complaint import (
     ComplaintCreate, ComplaintResponse, CommentCreate, ComplaintListResponse, ComplaintUpdate
 )
 from app.middleware.auth import get_current_user, require_role
+from app.ml.classifier import get_classifier
 
 router = APIRouter(prefix="/api/complaints", tags=["complaints"])
 
@@ -23,10 +24,25 @@ def submit_complaint(
             detail="Only students can submit complaints"
         )
 
+    classifier = get_classifier()
+
+    combined_text = f"{complaint_data.title}. {complaint_data.description}"
+    prediction = classifier.predict(combined_text)
+
+    category_value = prediction['category']
+    try:
+        category = ComplaintCategory(category_value)
+    except ValueError:
+        category = ComplaintCategory.OTHER
+
     new_complaint = Complaint(
         student_id=current_user.id,
         title=complaint_data.title,
-        description=complaint_data.description
+        description=complaint_data.description,
+        category=category,
+        assigned_department=prediction['department'],
+        confidence_score=prediction['confidence'],
+        status=ComplaintStatus.SUBMITTED
     )
     db.add(new_complaint)
     db.commit()
@@ -135,3 +151,55 @@ def add_comment(
     db.refresh(new_comment)
 
     return {"id": new_comment.id, "message": "Comment added successfully"}
+
+@router.post("/ml/classify", response_model=dict)
+def classify_text(
+    text: dict,
+    current_user: User = Depends(get_current_user)
+):
+    classifier = get_classifier()
+    complaint_text = text.get("text", "")
+
+    if not complaint_text:
+        raise HTTPException(
+            status_code=status.HTTP_400_BAD_REQUEST,
+            detail="Text field is required"
+        )
+
+    prediction = classifier.predict(complaint_text)
+    return {
+        "text": complaint_text[:100] + "..." if len(complaint_text) > 100 else complaint_text,
+        "predicted_category": prediction['category'],
+        "assigned_department": prediction['department'],
+        "confidence_score": prediction['confidence'],
+        "model_status": "trained" if classifier.is_trained else "not_trained"
+    }
+
+@router.get("/ml/stats", response_model=dict)
+def get_ml_stats(current_user: User = Depends(get_current_user), db: Session = Depends(get_db)):
+    classifier = get_classifier()
+
+    total_complaints = db.query(Complaint).count()
+    classified_complaints = db.query(Complaint).filter(Complaint.category != None).count()
+    avg_confidence = db.query(Complaint).filter(
+        Complaint.confidence_score != None
+    ).all()
+
+    avg_conf = 0.0
+    if avg_confidence:
+        avg_conf = sum(c.confidence_score for c in avg_confidence) / len(avg_confidence)
+
+    category_stats = {}
+    for complaint in db.query(Complaint).all():
+        if complaint.category:
+            cat = complaint.category.value
+            category_stats[cat] = category_stats.get(cat, 0) + 1
+
+    return {
+        "model_trained": classifier.is_trained,
+        "total_complaints": total_complaints,
+        "auto_classified": classified_complaints,
+        "classification_rate": round(classified_complaints / total_complaints * 100, 2) if total_complaints > 0 else 0,
+        "average_confidence": round(avg_conf, 3),
+        "category_distribution": category_stats
+    }

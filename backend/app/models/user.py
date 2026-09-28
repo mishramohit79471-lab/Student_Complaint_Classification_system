@@ -22,7 +22,7 @@ class User(Base):
     created_at = Column(DateTime, default=datetime.utcnow)
     updated_at = Column(DateTime, default=datetime.utcnow, onupdate=datetime.utcnow)
 
-    complaints = relationship("Complaint", back_populates="student")
+    complaints = relationship("Complaint", foreign_keys="Complaint.student_id", back_populates="student")
 
     def __repr__(self):
         return f"<User(id={self.id}, email={self.email}, role={self.role})>"
